@@ -1,0 +1,16 @@
+{
+  "name": "message-spammer",
+  "version": "1.0.0",
+  "description": "Discord DM veya kanala otomatik mesaj spam",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "discord.js-selfbot-v13": "^3.4.0"
+  },
+  "devDependencies": {
+    "electron": "^29.0.0"
+  }
+}
